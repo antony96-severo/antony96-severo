@@ -1,36 +1,32 @@
 # 👨‍💻 Antony Severo
 
-<p align="center">
-  <img src="imagem/homem x máquina.png" alt="Conexão Humano x Máquina" width="700">
-</p>
+## Backend Developer
 
----
+Transformando lógica em sistemas reais.
 
-Backend Developer focado em Python.
-
-Desenvolvendo aplicações web com Flask, SQLAlchemy e integração com banco de dados.  
-Experiência com autenticação, upload de arquivos e construção de sistemas completos.
+Desenvolvo aplicações web com Python, focado em backend sólido, autenticação, estrutura e controle de dados.  
+Mais interessado em como as coisas funcionam por trás… do que em como elas apenas aparecem.
 
 ---
 
 ## 🚀 Projetos
 
-- 🛍 **Urbanna** → Sistema web com painel administrativo  
-- 🖼 **MyGallery** → Aplicação estilo rede social de imagens  
-- 📚 **CrudBook** → CRUD desktop com SQLite  
+- 🛍 **Urbanna** → Plataforma web com painel administrativo completo  
+- 🖼 **MyGallery** → Sistema de compartilhamento de imagens  
+- 📚 **CrudBook** → Aplicação desktop com SQLite  
 
 ---
 
-## 💡 Stack
+## ⚙️ Stack
 
-- Python  
-- Flask  
-- SQLAlchemy  
-- SQLite  
-- HTML & CSS  
+Python • Flask • SQLAlchemy • SQLite • HTML • CSS
 
 ---
 
-## 📚 Em evolução
+## 🧠 Mentalidade
 
-Estudando e desenvolvendo projetos continuamente.
+Código limpo.  
+Estrutura clara.  
+Sistema funcionando.
+
+---
