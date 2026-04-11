@@ -1,7 +1,7 @@
 # 👨‍💻 Antony Severo
 
 <p align="center">
-  <img src="imagem/homem x máquina.png" alt="Conexão Humano x Máquina" width="500">
+  <img src="imagem/homem x máquina.png" alt="Conexão Humano x Máquina" width="700">
 </p>
 
 ---
