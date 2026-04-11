@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👨‍💻 Antony Severo
 
-<!--
-**antony96-severo/antony96-severo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="imagem/humano x máquina.png" alt="Conexão Humano x Máquina" width="100%">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend Developer focado em Python.
+
+Desenvolvendo aplicações web com Flask, SQLAlchemy e integração com banco de dados.  
+Experiência com autenticação, upload de arquivos e construção de sistemas completos.
+
+---
+
+## 🚀 Projetos
+
+- 🛍 **Urbanna** → Sistema web com painel administrativo  
+- 🖼 **MyGallery** → Aplicação estilo rede social de imagens  
+- 📚 **CrudBook** → CRUD desktop com SQLite  
+
+---
+
+## 💡 Stack
+
+- Python  
+- Flask  
+- SQLAlchemy  
+- SQLite  
+- HTML & CSS  
+
+---
+
+## 📚 Em evolução
+
+Estudando e desenvolvendo projetos continuamente.
