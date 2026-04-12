@@ -1,6 +1,3 @@
-Bora deixar isso nível recrutador sério mesmo.
-
-Aqui está o README COMPLETO, pronto pra copiar e colar 👇
 
 <h1 align="center">👨‍💻 Antony Severo</h1>
 
