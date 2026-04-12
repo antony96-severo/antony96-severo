@@ -37,7 +37,6 @@ Trabalho principalmente com Python, estruturando aplicações com foco em organi
 
 ### Ferramentas
 - Git & GitHub
-- Postman
 - PyCharm
 - VS Code
 
