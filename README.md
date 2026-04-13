@@ -98,8 +98,8 @@ Aplicação desktop com persistência de dados.
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=antony96-severo&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antony96-severo&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=antony96-severo&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=antony96-severo&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
