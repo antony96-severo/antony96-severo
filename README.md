@@ -88,7 +88,7 @@ https://github.com/antony96-severo/fastapi-pizzaria
 Sistema de vitrine com painel administrativo.
 
 🔗 Repositório:  
-https://github.com/antony96-severo/python-projects/tree/main/Urbanna
+https://github.com/antony96-severo/urbanna
 
 💡 Funcionalidades:
 - CRUD de produtos  
@@ -104,7 +104,7 @@ https://github.com/antony96-severo/python-projects/tree/main/Urbanna
 Sistema web com lógica completa de backend.
 
 🔗 Repositório:  
-https://github.com/antony96-severo/python-projects/tree/main/MyGallery
+https://github.com/antony96-severo/my-gallery
 
 💡 Funcionalidades:
 - Cadastro e autenticação  
@@ -119,7 +119,7 @@ https://github.com/antony96-severo/python-projects/tree/main/MyGallery
 Aplicação desktop com persistência de dados.
 
 🔗 Repositório:  
-https://github.com/antony96-severo/python-projects/tree/main/crud_livro
+https://github.com/antony96-severo/crud-book
 
 💡 Funcionalidades:
 - CRUD completo  
