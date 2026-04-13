@@ -54,7 +54,7 @@ Atuo principalmente com **Python**, criando aplicações com foco em:
 
 API REST com foco em regras de negócio e controle de pedidos.
 
-🔗 **Repositório:**  
+🔗 Repositório:  
 https://github.com/antony96-severo/python-projects/tree/main/FastAPI-Pizzaria
 
 💡 Funcionalidades:
@@ -67,6 +67,93 @@ https://github.com/antony96-severo/python-projects/tree/main/FastAPI-Pizzaria
 
 📌 Exemplo de endpoint:
 
-```http
-GET /pedido/{id_pedido}
-Authorization: Bearer <token>
+    GET /pedido/{id_pedido}
+    Authorization: Bearer <token>
+
+📌 Exemplo de resposta:
+
+    {
+      "quantidade_itens_pedido": 3,
+      "pedido": {
+        "id": 1,
+        "status": "PENDENTE",
+        "preco": 75.50
+      }
+    }
+
+---
+
+### 🛍️ Urbanna (Flask)
+
+Sistema de vitrine com painel administrativo.
+
+🔗 Repositório:  
+https://github.com/antony96-severo/python-projects/tree/main/Urbanna
+
+💡 Funcionalidades:
+- CRUD de produtos  
+- Upload de imagens  
+- Sistema de busca  
+- Controle de sessão admin  
+- Integração com WhatsApp  
+
+---
+
+### 🖼️ MyGallery (Flask)
+
+Sistema web com lógica completa de backend.
+
+🔗 Repositório:  
+https://github.com/antony96-severo/python-projects/tree/main/MyGallery
+
+💡 Funcionalidades:
+- Cadastro e autenticação  
+- Upload de imagens  
+- Feed dinâmico  
+- Rotas dinâmicas  
+
+---
+
+### 📚 CRUD Livros (SQLite + Tkinter)
+
+Aplicação desktop com persistência de dados.
+
+🔗 Repositório:  
+https://github.com/antony96-severo/python-projects/tree/main/crud_livro
+
+💡 Funcionalidades:
+- CRUD completo  
+- Integração com SQLite  
+- Interface gráfica  
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=antony96-severo&show_icons=true&theme=tokyonight"/>
+</p>
+
+---
+
+## 🎯 Objetivo
+
+Evoluir como desenvolvedor backend, aprofundando em:
+
+- Arquitetura de sistemas  
+- APIs mais complexas  
+- Banco de dados relacional  
+- Boas práticas de código  
+- Segurança  
+
+---
+
+## 📫 Contato
+
+- GitHub: https://github.com/antony96-severo  
+
+---
+
+<p align="center">
+  💡 Construindo sistemas reais para me tornar um backend profissional.
+</p>
