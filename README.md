@@ -1,4 +1,8 @@
-<h1 align="center">Antony Severo</h1>
+<h1 align="center">👨‍💻 Antony Severo</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Backend+Developer;Python+%7C+APIs+%7C+SQL;Construindo+sistemas+reais;Foco+em+arquitetura+e+regras+de+negócio" />
+</p>
 
 <p align="center">
 Backend Developer | Python • APIs • SQL
@@ -6,102 +10,114 @@ Backend Developer | Python • APIs • SQL
 
 ---
 
-## Sobre
+## 🧠 Sobre
 
-Desenvolvedor focado em backend, com experiência prática na construção de APIs, modelagem de dados e implementação de regras de negócio.
+Desenvolvedor focado em **backend**, com experiência prática na construção de **APIs**, modelagem de dados e implementação de regras de negócio.
 
-Trabalho principalmente com Python, estruturando aplicações com foco em organização, segurança e funcionamento real.
-
----
-
-## Stack Principal
-
-### Backend
-- Python
-- FastAPI
-- Flask
-- SQLAlchemy
-
-### Banco de Dados
-- SQLite
-- PostgreSQL (em evolução)
-
-### Arquitetura & Conceitos
-- REST APIs
-- CRUD completo
-- Relacionamentos entre tabelas
-- Regras de negócio
-- Autenticação com token
-- Estrutura de rotas
-- Validação de dados
-
-### Ferramentas
-- Git & GitHub
-- PyCharm
-- VS Code
+Trabalho principalmente com **Python**, estruturando aplicações com foco em **organização, segurança e funcionamento real**.
 
 ---
 
-## Projetos
+## ⚙️ Stack Principal
 
-### API Pizzaria (FastAPI)
+### 🔹 Backend
+![Python](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-red?style=for-the-badge)
+
+### 🗄️ Banco de Dados
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+
+### 🧩 Arquitetura & Conceitos
+- REST APIs  
+- CRUD completo  
+- Relacionamentos entre tabelas  
+- Regras de negócio  
+- Autenticação com token  
+- Estrutura de rotas  
+- Validação de dados  
+
+### 🛠️ Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![PyCharm](https://img.shields.io/badge/PyCharm-000?style=for-the-badge&logo=pycharm)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+## 🚀 Projetos
+
+### 🍕 API Pizzaria (FastAPI)
 
 API REST com foco em regras de negócio.
 
-- Autenticação com token
-- Controle de usuários (admin e comum)
-- CRUD de pedidos
-- Relacionamento entre entidades (Pedido, ItemPedido, Usuário)
-- Cálculo automático de preço
-- Controle de acesso por usuário
+- Autenticação com token  
+- Controle de usuários (admin e comum)  
+- CRUD de pedidos  
+- Relacionamento entre entidades (Pedido, ItemPedido, Usuário)  
+- Cálculo automático de preço  
+- Controle de acesso por usuário  
 
 ---
 
-### Urbanna (Flask)
+### 🛍️ Urbanna (Flask)
 
 Aplicação backend com painel administrativo.
 
-- CRUD de produtos
-- Upload de arquivos
-- Sistema de busca
-- Controle de sessão para admin
-- Estrutura baseada em rotas e templates
+- CRUD de produtos  
+- Upload de arquivos  
+- Sistema de busca  
+- Controle de sessão para admin  
+- Estrutura baseada em rotas e templates  
 
 ---
 
-### MyGallery (Flask)
+### 🖼️ MyGallery (Flask)
 
 Sistema web com lógica de backend aplicada.
 
-- Cadastro e autenticação de usuários
-- Upload de imagens
-- Rotas dinâmicas
-- Estrutura de dados e persistência
+- Cadastro e autenticação de usuários  
+- Upload de imagens  
+- Rotas dinâmicas  
+- Estrutura de dados e persistência  
 
 ---
 
-### CRUD Livros (SQLite + Tkinter)
+### 📚 CRUD Livros (SQLite + Tkinter)
 
 Aplicação desktop com persistência de dados.
 
-- Operações CRUD completas
-- Integração com banco SQLite
-- Interface gráfica simples
+- Operações CRUD completas  
+- Integração com banco SQLite  
+- Interface gráfica simples  
 
 ---
 
-## Objetivo
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=antony96-severo&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antony96-severo&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🎯 Objetivo
 
 Evoluir como desenvolvedor backend, aprofundando em:
 
-- Arquitetura de sistemas
-- APIs mais complexas
-- Banco de dados relacional
-- Boas práticas de código
-- Segurança
+- Arquitetura de sistemas  
+- APIs mais complexas  
+- Banco de dados relacional  
+- Boas práticas de código  
+- Segurança  
 
 ---
 
-## Contato
+## 📫 Contato
 
-GitHub: https://github.com/antony96-severo
+- GitHub: https://github.com/antony96-severo  
+
+---
