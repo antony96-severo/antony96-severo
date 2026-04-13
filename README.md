@@ -55,7 +55,7 @@ Atuo principalmente com **Python**, criando aplicações com foco em:
 API REST com foco em regras de negócio e controle de pedidos.
 
 🔗 Repositório:  
-https://github.com/antony96-severo/python-projects/tree/main/FastAPI-Pizzaria
+https://github.com/antony96-severo/fastapi-pizzaria
 
 💡 Funcionalidades:
 - Autenticação com token  
