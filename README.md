@@ -12,9 +12,12 @@ Backend Developer | Python • APIs • SQL
 
 ## 🧠 Sobre
 
-Desenvolvedor focado em **backend**, com experiência prática na construção de **APIs**, modelagem de dados e implementação de regras de negócio.
+Desenvolvedor focado em **backend**, com experiência prática na construção de **APIs REST**, modelagem de dados e implementação de regras de negócio.
 
-Trabalho principalmente com **Python**, estruturando aplicações com foco em **organização, segurança e funcionamento real**.
+Atuo principalmente com **Python**, criando aplicações com foco em:
+- organização de código
+- segurança
+- funcionamento real de sistemas
 
 ---
 
@@ -42,82 +45,28 @@ Trabalho principalmente com **Python**, estruturando aplicações com foco em **
 ### 🛠️ Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![PyCharm](https://img.shields.io/badge/PyCharm-000?style=for-the-badge&logo=pycharm)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
-## 🚀 Projetos
+## 🚀 Projetos em Destaque
 
 ### 🍕 API Pizzaria (FastAPI)
 
-API REST com foco em regras de negócio.
+API REST com foco em regras de negócio e controle de pedidos.
 
+🔗 **Repositório:**  
+https://github.com/antony96-severo/python-projects/tree/main/FastAPI-Pizzaria
+
+💡 Funcionalidades:
 - Autenticação com token  
 - Controle de usuários (admin e comum)  
 - CRUD de pedidos  
-- Relacionamento entre entidades (Pedido, ItemPedido, Usuário)  
+- Relacionamento entre entidades  
 - Cálculo automático de preço  
 - Controle de acesso por usuário  
 
----
+📌 Exemplo de endpoint:
 
-### 🛍️ Urbanna (Flask)
-
-Aplicação backend com painel administrativo.
-
-- CRUD de produtos  
-- Upload de arquivos  
-- Sistema de busca  
-- Controle de sessão para admin  
-- Estrutura baseada em rotas e templates  
-
----
-
-### 🖼️ MyGallery (Flask)
-
-Sistema web com lógica de backend aplicada.
-
-- Cadastro e autenticação de usuários  
-- Upload de imagens  
-- Rotas dinâmicas  
-- Estrutura de dados e persistência  
-
----
-
-### 📚 CRUD Livros (SQLite + Tkinter)
-
-Aplicação desktop com persistência de dados.
-
-- Operações CRUD completas  
-- Integração com banco SQLite  
-- Interface gráfica simples  
-
----
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=antony96-severo&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=antony96-severo&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🎯 Objetivo
-
-Evoluir como desenvolvedor backend, aprofundando em:
-
-- Arquitetura de sistemas  
-- APIs mais complexas  
-- Banco de dados relacional  
-- Boas práticas de código  
-- Segurança  
-
----
-
-## 📫 Contato
-
-- GitHub: https://github.com/antony96-severo  
-
----
+```http
+GET /pedido/{id_pedido}
+Authorization: Bearer <token>
