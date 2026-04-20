@@ -50,6 +50,46 @@ Atuo principalmente com **Python**, criando aplicações com foco em:
 
 ## 🚀 Projetos em Destaque
 
+---
+
+### 🏦 API Bancária (FastAPI)
+
+API REST completa simulando operações bancárias reais, com foco em **regras de negócio**, **segurança** e **controle de acesso**.
+
+🔗 Repositório:  
+https://github.com/antony96-severo/api-bancaria-fastapi
+
+💡 Funcionalidades:
+- Criação de contas de usuário  
+- Autenticação com JWT  
+- Criação de conta bancária vinculada ao usuário  
+- Depósito, saque e transferência  
+- Consulta de saldo  
+- Histórico de transações  
+- Validações de regras de negócio:
+  - Não permite saldo negativo  
+  - Não permite operações sem autenticação  
+  - Usuário acessa apenas a própria conta  
+  - Controle de permissões por usuário  
+
+📌 Exemplo de endpoint:
+
+    POST /transaction
+    Authorization: Bearer <token>
+
+📌 Exemplo de requisição:
+
+    {
+      "tipo": "transferencia",
+      "valor": 100,
+      "conta_destino_id": 2
+    }
+
+📌 Regras aplicadas:
+- Validação de saldo antes de saque/transferência  
+- Controle de propriedade da conta  
+- Proteção de rotas com autenticação  
+
 ### 🍕 API Pizzaria (FastAPI)
 
 API REST com foco em regras de negócio e controle de pedidos.
