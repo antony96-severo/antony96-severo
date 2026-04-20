@@ -88,7 +88,9 @@ https://github.com/antony96-severo/api-bancaria-fastapi
 📌 Regras aplicadas:
 - Validação de saldo antes de saque/transferência  
 - Controle de propriedade da conta  
-- Proteção de rotas com autenticação  
+- Proteção de rotas com autenticação
+
+---
 
 ### 🍕 API Pizzaria (FastAPI)
 
