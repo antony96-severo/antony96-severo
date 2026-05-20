@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Backend Developer | Python • APIs • SQL
+Backend Developer | Python • APIs • Flask • SQL
 </p>
 
 ---
